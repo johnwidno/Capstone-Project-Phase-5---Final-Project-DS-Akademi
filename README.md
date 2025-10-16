@@ -1,7 +1,7 @@
-"# Capstone-Project-Phase-5---Final-Project-DS-Akademi" 
-#Project Scoping
-##Topic: Predictive Modeling for Donor Retention in Haitian NPOs
-###1. Project Context
+# Capstone-Project-Phase-5---Final-Project-DS-Akademi" 
+# Project Scoping
+## Topic: Predictive Modeling for Donor Retention in Haitian NPOs
+### 1. Project Context
 
 Non-Profit Organizations (NPOs) play a vital role in Haiti’s social, educational, and economic development. 
 However, most NPOs rely heavily on donations from individuals, Organizations, and sponsors to sustain their programs.
@@ -11,12 +11,12 @@ Despite collecting donor information, most organizations do not use these data e
 
 This project aims to leverage machine learning and data science to help NPOs in Haiti predict and understand donor retention patterns, enabling more strategic fundraising and communication.
 
-###2. Problem Statement
+### 2. Problem Statement
 
 Using historical donor data, can we predict whether a donor is likely to make another donation in the next few months?
 This predictive model will help NPOs identify loyal donors to retain, at-risk donors to re-engage, and improve donor communication strategies.
 
-###3. Project Objectives
+### 3. Project Objectives
 General Objective: Develop a predictive machine learning model to help NPOs forecast the likelihood of future donations and improve donor retention strategies.
 
 Specific Objectives:
@@ -26,12 +26,12 @@ Specific Objectives:
 - Analyze feature importance to determine which factors most influence donor loyalty.
 - Provide data-driven recommendations for NPOs’ fundraising and donor management efforts.
 
-###4. Dataset Overview
+### 4. Dataset Overview
 
 The dataset will represent typical donor information collected by a NPOs, including variables such as donor_id, age, gender, country, total_donations, num_donations, 
 last_donation_date, avg_donation_amount, campaign_type, contact_frequency, event_participation, response_to_emails, and re_donate (target variable).
 
-###5. Methodology
+### 5. Methodology
 
 1. Data Exploration (EDA)
 2. Data Preparation (cleaning, encoding, feature engineering)
@@ -39,21 +39,21 @@ last_donation_date, avg_donation_amount, campaign_type, contact_frequency, event
 4. Evaluation & Interpretation (AUC, F1-score, Recall)
 5. Recommendations (strategies for donor engagement and retention)
 
-###6. Expected Deliverables
+### 6. Expected Deliverables
 
 - Python Notebook (data exploration, modeling, evaluation)
 - Cleaned and documented dataset
 - Final report (methodology, results, recommendations)
 - Presentation or dashboard (PowerPoint, Streamlit, Tableau)
 
-###7. Expected Results & Impact
+### 7. Expected Results & Impact
 
 - Better understanding of donor loyalty drivers.
 - Ability to predict and prevent donor churn.
 - Data-driven decision-making to improve fundraising performance.
 - A reusable predictive framework for multiple Haitian NGOs.
 
-###8. Project Timeline
+### 8. Project Timeline
 
 1. Problem definition and scoping – 3 days
 2. Data collection and preparation – 5 days
@@ -62,14 +62,14 @@ last_donation_date, avg_donation_amount, campaign_type, contact_frequency, event
 5. Evaluation and insights – 3 days
 6. Reporting and presentation – 4 days
 
-###9. Tools & Technologies
+### 9. Tools & Technologies
 
 - Python (pandas, scikit-learn, matplotlib, seaborn)
 - Excel / Power Query
 - Streamlit / Tableau / Power BI
 - Jupyter Notebook
 
-10. Conclusion
+### 10. Conclusion
 
 This capstone project demonstrates how machine learning can support Haitian NPOs in strengthening donor relationship management through predictive analytics. 
 By identifying potential recurring donors and understanding engagement patterns, NGOs can optimize fundraising strategies and ensure the sustainability of their social missions.
