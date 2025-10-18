@@ -1,5 +1,4 @@
-# Capstone-Project-Phase-5---Final-Project-DS-Akademi" 
-# Project Scoping
+
 ## Topic: Predictive Modeling for Donor Retention in Haitian NPOs
 ### 1. Project Context
 
