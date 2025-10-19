@@ -1,5 +1,5 @@
 
-# Predictive Modeling for Donor Retention in Haitian NPOs
+# Predictive Modeling: Donor Retention in Non-Profit Organizations
 ### 1. Project Context
 
 Non-Profit Organizations (NPOs) play a vital role in Haiti’s social, educational, and economic development. 
