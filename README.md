@@ -1,6 +1,10 @@
-
 # Predictive Modeling: Donor Retention in Non-Profit Organizations
-## Introduction 
+## Introduction
+Non-Profit Organizations (NPOs) play a vital role in social, educational, and economic development, but they rely heavily on fundraising, which makes understanding donor behavior critical, as one of the major challenges NPOs face is maintaining donor engagement and loyalty over time.
+
+
+This project aims to tackle this issue by analyzing donor behavior to identify both loyal and at-risk donors. The insights gained will support NPOs in designing more effective fundraising and communication strategies, ultimately enhancing their ability to sustain and grow their initiatives.
+
 ### 1. Project Context
 
 Non-Profit Organizations (NPOs) play a vital role in Haiti’s social, educational, and economic development. 
