@@ -1,6 +1,7 @@
 # Predictive Modeling: Donor Retention in Non-Profit Organizations
-![Alt text](https://github.com/Haender-Michael/Movie-recommendation/blob/3501039740ae9001a4175ce8e4f01638c6f3a033/film-clipboard-symbol-26030446.webp)
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/3e3cec252d2bb91be645b0f92de3931bacf09b37/non%20profit%20organisation%205.png)
 
+[source](https://sl.bing.net/cNg3KSZCd0m)
 ## Introduction
 Non-Profit Organizations (NPOs) play a vital role in social, educational, and economic development, but they rely heavily on fundraising, which makes understanding donor behavior critical, as one of the major challenges NPOs face is maintaining donor engagement and loyalty over time.
 
