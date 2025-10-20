@@ -29,20 +29,23 @@ The scientist colaborated equally on this project.
 - phone number
 - LinkedIn
 
-### 1. Project Context
 
-Non-Profit Organizations (NPOs) play a vital role in Haiti’s social, educational, and economic development. 
-However, most NPOs rely heavily on donations from individuals, Organizations, and sponsors to sustain their programs.
+### Business understanding 
 
-A major challenge for Haitian NPOs is maintaining donor engagement and loyalty. While some donors give regularly, many only donate once. 
-Despite collecting donor information, most organizations do not use these data effectively to anticipate donor behavior.
+In today’s fast-evolving fundraising landscape, nonprofit organisations face growing pressure to engage supporters meaningfully, demonstrate impact, and build trust through transparency. Traditional, instinct-driven approaches no longer meet modern donor expectations 
 
-This project aims to leverage machine learning and data science to help NPOs in Haiti predict and understand donor retention patterns, enabling more strategic fundraising and communication.
+Adopting a data-informed approach is not just a technical upgrade—it’s a cultural shift that aligns mission, message, and measurement. With the right mindset and existing tools, even small organisations can use data to boost engagement and impact (Analytics for Good Institute, 2020).
 
-### 2. Problem Statement
+Delivering measurable change increasingly depends on how well nonprofits engage and retain supporters. As donor expectations rise and attention spans shrink, sustaining long-term relationships becomes a major challenge (Fundraise, 2024). Data-driven organisations are up to three times more likely to achieve mission-aligned growth and build lasting trust (McKinsey & Company, 2021).
 
-Using historical donor data, can we predict whether a donor is likely to make another donation in the next few months?
-This predictive model will help NPOs identify loyal donors to retain, at-risk donors to re-engage, and improve donor communication strategies.
+Our objectives focus on reducing donor churn, strengthening relationships, and improving alignment between fundraising and impact. We aim to engage donors and inspire new strategies for attraction and retention and show data inpired Analysis and modeling in the context of NPOs.
+
+### Data Understanding 
+A synthetic dataset was created to reflect the operational characteristics of a nonprofit focused on youth and community welfare. It includes relational tables for donors, donations, campaigns, impact outcomes, and engagement activities. These tables are structured to support a complete engagement analysis from start to finish.
+
+Although the data is fictitious, it reflects realistic patterns based on sector research. These patterns include donor attrition, variations in donation behavior, and inconsistent campaign performance (Virtuous, 2024). The goal is to encourage the use of data in nonprofit environments and to provide the NPO community with a clear example of what a data-informed approach can accomplish. This simulation allows for open analysis while maintaining privacy and ethical standards.
+
+The structure of the dataset makes it possible to demonstrate how nonprofit engagement can be improved through analytics without relying on sensitive real-world data.
 
 ### 3. Project Objectives
 General Objective: Develop a predictive machine learning model to help NPOs forecast the likelihood of future donations and improve donor retention strategies.
@@ -54,18 +57,27 @@ Specific Objectives:
 - Analyze feature importance to determine which factors most influence donor loyalty.
 - Provide data-driven recommendations for NPOs’ fundraising and donor management efforts.
 
-### 4. Dataset Overview
+## Contact information
+Above: The Contact Information Of the Two Data scientist in charge of the project.
+- First Name: Haender Michael
 
-The dataset will represent typical donor information collected by a NPOs, including variables such as donor_id, age, gender, country, total_donations, num_donations, 
-last_donation_date, avg_donation_amount, campaign_type, contact_frequency, event_participation, response_to_emails, and re_donate (target variable).
+- Last Name: Jean Louis
 
-### 5. Methodology
+- Email: michaelhaenderjeanlouis@gmail.com
 
-1. Data Exploration (EDA)
-2. Data Preparation (cleaning, encoding, feature engineering)
-3. Modeling (Logistic Regression, Random Forest, XGBoost)
-4. Evaluation & Interpretation (AUC, F1-score, Recall)
-5. Recommendations (strategies for donor engagement and retention)
+- Phone Number: +509 41 75 0264
+
+- LinkedIn: https://www.linkedin.com/in/michael-haender-jean-louis-4b7320316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 
+- First Name:
+- Last Name :
+- Enail
+- Phone Number:
+- LinkedIn
+
+
+
+
 
 ### 6. Expected Deliverables
 
@@ -81,14 +93,6 @@ last_donation_date, avg_donation_amount, campaign_type, contact_frequency, event
 - Data-driven decision-making to improve fundraising performance.
 - A reusable predictive framework for multiple Haitian NGOs.
 
-### 8. Project Timeline
-
-1. Problem definition and scoping – 3 days
-2. Data collection and preparation – 5 days
-3. Data exploration and visualization – 4 days
-4. Machine learning modeling – 6 days
-5. Evaluation and insights – 3 days
-6. Reporting and presentation – 4 days
 
 ### 9. Tools & Technologies
 
