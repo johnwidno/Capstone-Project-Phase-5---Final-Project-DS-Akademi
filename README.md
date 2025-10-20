@@ -8,6 +8,8 @@ Non-Profit Organizations (NPOs) play a vital role in social, educational, and ec
 This project aims to tackle this issue by analyzing donor behavior to identify both loyal and at-risk donors. The insights gained will support NPOs in designing more effective fundraising and communication strategies, ultimately enhancing their ability to sustain and grow their initiatives.
 
 ## Methodology
+### Data preparation 
+There are 7 tables in the dataset; one of them is a duplicate, so we combined the 6 unique tables. Some columns were reformatted, and the NULL and duplicate values were remove
  #### **Exploratory data Analysis**
  - data preparation
  - business understanding
@@ -47,18 +49,8 @@ Although the data is fictitious, it reflects realistic patterns based on sector 
 
 The structure of the dataset makes it possible to demonstrate how nonprofit engagement can be improved through analytics without relying on sensitive real-world data.
 
-### 3. Project Objectives
-General Objective: Develop a predictive machine learning model to help NPOs forecast the likelihood of future donations and improve donor retention strategies.
-
-Specific Objectives:
-- Build or simulate a donor dataset with relevant behavioral and demographic variables.
-- Clean, preprocess, and explore the data to identify key trends.
-- Train and evaluate supervised learning models for donor retention prediction.
-- Analyze feature importance to determine which factors most influence donor loyalty.
-- Provide data-driven recommendations for NPOs’ fundraising and donor management efforts.
-
 ## Contact information
-Above: The Contact Information Of the Two Data scientist in charge of the project.
+Bellow: The Contact Information Of the Two Data scientist in charge of the project.
 - First Name: Haender Michael
 
 - Last Name: Jean Louis
@@ -76,33 +68,16 @@ Above: The Contact Information Of the Two Data scientist in charge of the projec
 - LinkedIn
 
 
+### 3. Project Objectives
+General Objective: Develop a predictive machine learning model to help NPOs forecast the likelihood of future donations and improve donor retention strategies.
 
-
-
-### 6. Expected Deliverables
-
-- Python Notebook (data exploration, modeling, evaluation)
-- Cleaned and documented dataset
-- Final report (methodology, results, recommendations)
-- Presentation or dashboard (PowerPoint, Streamlit, Tableau)
-
+Specific Objectives:
+- Train and evaluate supervised learning models for donor retention prediction.
+- Analyze feature importance to determine which factors most influence donor loyalty.
+- Provide data-driven recommendations for NPOs’ fundraising and donor management efforts.
 ### 7. Expected Results & Impact
 
 - Better understanding of donor loyalty drivers.
 - Ability to predict and prevent donor churn.
 - Data-driven decision-making to improve fundraising performance.
 - A reusable predictive framework for multiple Haitian NGOs.
-
-
-### 9. Tools & Technologies
-
-- Python (pandas, scikit-learn, matplotlib, seaborn)
-- Excel / Power Query
-- Streamlit / Tableau / Power BI
-- Jupyter Notebook
-
-### 10. Conclusion
-
-This capstone project demonstrates how machine learning can support Haitian NPOs in strengthening donor relationship management through predictive analytics. 
-By identifying potential recurring donors and understanding engagement patterns, NGOs can optimize fundraising strategies and ensure the sustainability of their social missions.
-
