@@ -59,7 +59,6 @@ Bellow: The Contact Information Of the Two Data scientist in charge of the proje
 - Phone Number: +509 41 75 0264
 
 - LinkedIn: https://www.linkedin.com/in/michael-haender-jean-louis-4b7320316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 
 - First Name:
 - Last Name :
 - Enail
@@ -67,6 +66,8 @@ Bellow: The Contact Information Of the Two Data scientist in charge of the proje
 - LinkedIn
 
 
+
+**NB** ; these won't stay on the github repository. These are our guideline to finalize the project
 ### 3. Project Objectives
 General Objective: Develop a predictive machine learning model to help NPOs forecast the likelihood of future donations and improve donor retention strategies.
 
