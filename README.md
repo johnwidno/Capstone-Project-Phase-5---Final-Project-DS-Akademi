@@ -5,6 +5,28 @@ Non-Profit Organizations (NPOs) play a vital role in social, educational, and ec
 
 This project aims to tackle this issue by analyzing donor behavior to identify both loyal and at-risk donors. The insights gained will support NPOs in designing more effective fundraising and communication strategies, ultimately enhancing their ability to sustain and grow their initiatives.
 
+## Methodology
+ #### **Exploratory data Analysis**
+ - data preparation
+ - business understanding
+ - data understanding
+ #### **Major questions**
+These questions deepen our grasp of the business and data context, steering the analysis toward the NPO’s core concerns and enabling a thorough exploration of donor dynamics.
+
+This part is crucial, as it serves as a compass that guides our analysis and helps address stakeholders' concerns or uncover relevant information.
+#### **Modeling**
+""'''''
+#### **Model Evaluation**
+#### **Recommendations**
+#### **References**
+#### **Contact information**
+the contact information of the two data scientist who work on this project is provided. 
+The scientist colaborated equally on this project.
+- name
+- email
+- phone number
+- LinkedIn
+
 ### 1. Project Context
 
 Non-Profit Organizations (NPOs) play a vital role in Haiti’s social, educational, and economic development. 
