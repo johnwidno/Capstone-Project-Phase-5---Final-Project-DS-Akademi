@@ -67,7 +67,7 @@ Bellow: The Contact Information Of the Two Data scientist in charge of the proje
 
 
 
-**NB** ; these won't stay on the github repository. These are our guideline to finalize the project
+**NB** ; the information bellow  won't stay on the github repository. These are our guideline to finalize the project
 ### 3. Project Objectives
 General Objective: Develop a predictive machine learning model to help NPOs forecast the likelihood of future donations and improve donor retention strategies.
 
