@@ -19,7 +19,6 @@ This part is crucial, as it serves as a compass that guides our analysis and hel
 ""'''''
 #### **Model Evaluation**
 #### **Recommendations**
-#### **References**
 #### **Contact information**
 the contact information of the two data scientist who work on this project is provided. 
 The scientist colaborated equally on this project.
