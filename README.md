@@ -29,7 +29,7 @@ The scientist colaborated equally on this project.
 - phone number
 - LinkedIn
 
-
+## Exploratory data Analysis
 ### Business understanding 
 
 In today’s fast-evolving fundraising landscape, nonprofit organisations face growing pressure to engage supporters meaningfully, demonstrate impact, and build trust through transparency. Traditional, instinct-driven approaches no longer meet modern donor expectations 
