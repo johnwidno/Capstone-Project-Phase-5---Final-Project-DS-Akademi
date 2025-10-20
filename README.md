@@ -8,9 +8,6 @@ Non-Profit Organizations (NPOs) play a vital role in social, educational, and ec
 This project aims to tackle this issue by analyzing donor behavior to identify both loyal and at-risk donors. The insights gained will support NPOs in designing more effective fundraising and communication strategies, ultimately enhancing their ability to sustain and grow their initiatives.
 
 ## Methodology
-### Data preparation 
-There are 7 tables in the dataset; one of them is a duplicate, so we combined the 6 unique tables. Some columns were reformatted, and the NULL and duplicate values were remove
- #### **Exploratory data Analysis**
  - data preparation
  - business understanding
  - data understanding
@@ -32,6 +29,8 @@ The scientist colaborated equally on this project.
 - LinkedIn
 
 ## Exploratory data Analysis
+### Data preparation 
+There are 7 tables in the dataset; one of them is a duplicate, so we combined the 6 unique tables. Some columns were reformatted, and the NULL and duplicate values were remove
 ### Business understanding 
 
 In today’s fast-evolving fundraising landscape, nonprofit organisations face growing pressure to engage supporters meaningfully, demonstrate impact, and build trust through transparency. Traditional, instinct-driven approaches no longer meet modern donor expectations 
