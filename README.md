@@ -3,11 +3,16 @@
 
 [source](https://sl.bing.net/cNg3KSZCd0m)
 ## Introduction
-Non-Profit Organizations (NPOs) play a vital role in social, educational, and economic development, but they rely heavily on fundraising, which makes understanding donor behavior critical, as one of the major challenges NPOs face is maintaining donor engagement and loyalty over time.
+Non-Profit Organizations (NPOs) play a vital role in social, educational, and economic development, but some, especially in underdeveloped countries like Haiti, rely heavily on gut instinct and traditional methods to make decisions, which leads to poor donor retention, ineffective communication, weak donor interaction, and unsuccessful campaigns.
+Since NPOs rely heavily on fundraising, understanding donor behavior is a must, as one of the major challenges NPOs face is maintaining donor engagement and loyalty over time.
 
-This project aims to tackle this issue by analyzing donor behavior to identify both loyal and at-risk donors. The insights gained will support NPOs in designing more effective fundraising and communication strategies, ultimately enhancing their ability to sustain and grow their initiatives.
+The primary objective of this project is to showcase the importance of using data to make informed decisions in NPOs.
+For that purpose, the project aims to analyze donor behavior and categorize donors for a random and fictitious organization. The insights gained throughout this analysis will foster the use of data and machine learning in decision-making, which can therefore help NPOs design more effective fundraising and communication strategies, ultimately enhancing their ability to sustain and grow their initiatives.
 
-## Methodology
+To achieve this, we use the  [Donor Data](https://www.kaggle.com/datasets/maheshpandey87/donor-data/data) from Kaggle, which comprises six tables detailing donors, donations, campaigns, project results, and engagement activities. These data provide a comprehensive view of donor interactions and contributions, forming the basis for our analysis.
+
+ ## Methodology
+ #### **Exploratory data Analysis**
  - data preparation
  - business understanding
  - data understanding
@@ -20,8 +25,9 @@ This part is crucial, as it serves as a compass that guides our analysis and hel
 #### **Model Evaluation**
 #### **Recommendations**
 #### **Contact information**
-the contact information of the two data scientist who work on this project is provided. 
-The scientist colaborated equally on this project.
+the contact information of the two data scientist who work on this project is provided.
+
+NB: The scientist colaborated equally on this project.
 - name
 - email
 - phone number
@@ -32,18 +38,18 @@ The scientist colaborated equally on this project.
 There are 7 tables in the dataset; one of them is a duplicate, so we combined the 6 unique tables. Some columns were reformatted, and the NULL and duplicate values were remove
 ### Business understanding 
 
-In today’s fast-evolving fundraising landscape, nonprofit organisations face growing pressure to engage supporters meaningfully, demonstrate impact, and build trust through transparency. Traditional, instinct-driven approaches no longer meet modern donor expectations 
+In today’s fast-evolving fundraising landscape, nonprofit organisations face growing pressure to engage supporters meaningfully, demonstrate their impact, and build trust through transparency. Traditional, instinct-driven approaches no longer meet modern donor expectations
 
-Adopting a data-informed approach is not just a technical upgrade—it’s a cultural shift that aligns mission, message, and measurement. With the right mindset and existing tools, even small organisations can use data to boost engagement and impact (Analytics for Good Institute, 2020).
+Adopting a data-informed approach is not just a technical upgrade—it’s a cultural shift that aligns mission, message, and measurement. With the right mindset and existing tools, even small organisations can use data to boost engagement and impact.
 
-Delivering measurable change increasingly depends on how well nonprofits engage and retain supporters. As donor expectations rise and attention spans shrink, sustaining long-term relationships becomes a major challenge (Fundraise, 2024). Data-driven organisations are up to three times more likely to achieve mission-aligned growth and build lasting trust (McKinsey & Company, 2021).
+Delivering measurable change increasingly depends on how well nonprofits engage and retain supporters. As donor expectations rise and attention spans shrink, sustaining long-term relationships becomes a major challenge.[McKinsey Global Institute](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/five-facts-how-customer-analytics-boosts-corporate-performance) says that data-driven organisations are 23 times more likely to acquire customers, 6 times as likely to retain customers and 19 times as likely to be profitable, showing the importance of including data in decision making.
 
-Our objectives focus on reducing donor churn, strengthening relationships, and improving alignment between fundraising and impact. We aim to engage donors and inspire new strategies for attraction and retention and show data inpired Analysis and modeling in the context of NPOs.
+Our objectives focus on helping NPO'S reduce donor churn, strengthen their  relationships with donors, and improve alignment between fundraising and impact, with data driven analysis. We aim to help them engage donors and inspire new strategies for attraction and retention.
 
 ### Data Understanding 
-A synthetic dataset was created to reflect the operational characteristics of a nonprofit focused on youth and community welfare. It includes relational tables for donors, donations, campaigns, impact outcomes, and engagement activities. These tables are structured to support a complete engagement analysis from start to finish.
+A synthetic dataset was created to reflect the operational characteristics of a nonprofit organisation, focused on youth and community welfare. It includes relational tables for donors, donations, campaigns, impact outcomes, and engagement activities. These tables are structured to support a complete engagement analysis from start to finish.
 
-Although the data is fictitious, it reflects realistic patterns based on sector research. These patterns include donor attrition, variations in donation behavior, and inconsistent campaign performance (Virtuous, 2024). The goal is to encourage the use of data in nonprofit environments and to provide the NPO community with a clear example of what a data-informed approach can accomplish. This simulation allows for open analysis while maintaining privacy and ethical standards.
+Although the data is fictitious, it reflects realistic patterns based on [sector](https://www2.fundsforngos.org/) / [research](https://virtuous.org/resources/resource-center/). These patterns include donor attrition, variations in donation behavior, and inconsistent campaign performance (Virtuous, 2024). The goal is to encourage the use of data in nonprofit environments and to provide the NPO community with a clear example of what a data-informed approach can accomplish. This simulation allows for open analysis while maintaining privacy and ethical standards.
 
 The structure of the dataset makes it possible to demonstrate how nonprofit engagement can be improved through analytics without relying on sensitive real-world data.
 
