@@ -1,4 +1,4 @@
-# Predictive Modeling: Donor Retention in Non-Profit Organizations
+# Predictive Modeling: the importance of data in decision making for NPOs
 ![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/3e3cec252d2bb91be645b0f92de3931bacf09b37/non%20profit%20organisation%205.png)
 
 [source](https://sl.bing.net/cNg3KSZCd0m)
