@@ -17,9 +17,10 @@ To achieve this, we use the  [Donor Data](https://www.kaggle.com/datasets/mahesh
  - business understanding
  - data understanding
  #### **Major questions**
-These questions deepen our grasp of the business and data context, steering the analysis toward the NPO’s core concerns and enabling a thorough exploration of donor dynamics.
+These questions deepen our grasp of the business and data context, steering the analysis toward the NPOs' core concerns and enabling a thorough exploration of donor dynamics.
 
 This part is crucial, as it serves as a compass that guides our analysis and helps address stakeholders' concerns or uncover relevant information.
+
 #### **Modeling**
 ""'''''
 #### **Model Evaluation**
@@ -33,18 +34,20 @@ NB: The scientist colaborated equally on this project.
 - phone number
 - LinkedIn
 
+
 ## Exploratory data Analysis
 ### Data preparation 
-There are 7 tables in the dataset; one of them is a duplicate, so we combined the 6 unique tables. Some columns were reformatted, and the NULL and duplicate values were remove
-### Business understanding 
+There are 7 tables in the dataset; one of them is a duplicate, so we combined the 6 unique tables. Some columns are reformatted .Some are dropped when not necessary for the analysis and the NULL and duplicate values were removed.
 
-In today’s fast-evolving fundraising landscape, nonprofit organisations face growing pressure to engage supporters meaningfully, demonstrate their impact, and build trust through transparency. Traditional, instinct-driven approaches no longer meet modern donor expectations
+### Business understanding 
+In today’s fast-evolving fundraising landscape, nonprofit organisations face growing pressure to engage supporters meaningfully, demonstrate results, and build trust through transparency. Traditional, instinct-driven approaches no longer meet modern donor expectations
 
 Adopting a data-informed approach is not just a technical upgrade—it’s a cultural shift that aligns mission, message, and measurement. With the right mindset and existing tools, even small organisations can use data to boost engagement and impact.
 
 Delivering measurable change increasingly depends on how well nonprofits engage and retain supporters. As donor expectations rise and attention spans shrink, sustaining long-term relationships becomes a major challenge.[McKinsey Global Institute](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/five-facts-how-customer-analytics-boosts-corporate-performance) says that data-driven organisations are 23 times more likely to acquire customers, 6 times as likely to retain customers and 19 times as likely to be profitable, showing the importance of including data in decision making.
 
-Our objectives focus on helping NPO'S reduce donor churn, strengthen their  relationships with donors, and improve alignment between fundraising and impact, with data driven analysis. We aim to help them engage donors and inspire new strategies for attraction and retention.
+Our objectives focus on helping NPOs reduce donor churn, strengthen their  relationships with donors, and improve alignment between fundraising and impact, with data driven analysis. We aim to help them engage donors and inspire new strategies for attraction and retention.
+
 
 ### Data Understanding 
 A synthetic dataset was created to reflect the operational characteristics of a nonprofit organisation, focused on youth and community welfare. It includes relational tables for donors, donations, campaigns, impact outcomes, and engagement activities. These tables are structured to support a complete engagement analysis from start to finish.
@@ -55,34 +58,25 @@ The structure of the dataset makes it possible to demonstrate how nonprofit enga
 
 ## Contact information
 Bellow: The Contact Information Of the Two Data scientist in charge of the project.
+
 - First Name: Haender Michael
-
 - Last Name: Jean Louis
-
 - Email: michaelhaenderjeanlouis@gmail.com
-
 - Phone Number: +509 41 75 0264
-
+- WhatsApp  : +509 33905060
 - LinkedIn: https://www.linkedin.com/in/michael-haender-jean-louis-4b7320316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- First Name:
-- Last Name :
-- Enail
-- Phone Number:
-- LinkedIn
+
+  
+- First Name  : John Widno
+- Last Name   : DORCY
+- Email       : dorcyjohnwidno97@gmail.com
+- Phone       : +509 38 05 8388
+- LinkedIn    : https://www.linkedin.com/in/john-widno-dorcy-19399a216/
+
+For further inquiries, feedback, or collaboration on this analysis, feel free to reach out.
 
 
 
-**NB** ; the information bellow  won't stay on the github repository. These are our guideline to finalize the project
-### 3. Project Objectives
-General Objective: Develop a predictive machine learning model to help NPOs forecast the likelihood of future donations and improve donor retention strategies.
 
-Specific Objectives:
-- Train and evaluate supervised learning models for donor retention prediction.
-- Analyze feature importance to determine which factors most influence donor loyalty.
-- Provide data-driven recommendations for NPOs’ fundraising and donor management efforts.
-### 7. Expected Results & Impact
 
-- Better understanding of donor loyalty drivers.
-- Ability to predict and prevent donor churn.
-- Data-driven decision-making to improve fundraising performance.
-- A reusable predictive framework for multiple Haitian NGOs.
+
