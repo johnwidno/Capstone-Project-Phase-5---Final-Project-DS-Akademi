@@ -21,9 +21,8 @@ These questions deepen our grasp of the business and data context, steering the 
 
 This part is crucial, as it serves as a compass that guides our analysis and helps address stakeholders' concerns or uncover relevant information.
 
-#### **Modeling**
-""'''''
-#### **Model Evaluation**
+#### **Modeling/ Model Evaluation**
+
 #### **Recommendations**
 #### **Contact information**
 the contact information of the two data scientist who work on this project is provided.
