@@ -85,7 +85,7 @@ This type of information is very useful because some NPOs might want to set thei
 Comment: For this fictitious data set, gender is equally distributed, but in some regions, NPOs might observe some imbalance and, therefore, make it their objective to understand why and do something about it.
 
 **How can the different type of donors be classified ?**
-![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/4rth_image.png)
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/5th_image.png)
 
 Comments: Not every donor contributes the same. Therefore, donors have to be interacted with differently. Some donors may receive messages of recognition and heartfelt remerciements, while others may need to be re-engaged toward donating again. Knowing the different donor segments is crucial information for NPOs.
 
