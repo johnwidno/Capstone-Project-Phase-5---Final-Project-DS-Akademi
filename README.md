@@ -56,6 +56,13 @@ Although the data is fictitious, it reflects realistic patterns based on [sector
 
 The structure of the dataset makes it possible to demonstrate how nonprofit engagement can be improved through analytics without relying on sensitive real-world data.
 
+## Major questions
+this section is a follow up of the two previous sections. it builds our business and data understanding and allow us to leverage the data to get meaningful and pertinent information.
+We will also tell the purpose of each Newfound information, and by the same occasion foster a data informed approached in NPOs.
+
+**How has donor retention evolved over time ?**
+
+
 ## Contact information
 Bellow: The Contact Information Of the Two Data scientist in charge of the project.
 
