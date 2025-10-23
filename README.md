@@ -61,6 +61,40 @@ this section is a follow up of the two previous sections. it builds our business
 We will also tell the purpose of each Newfound information, and by the same occasion foster a data informed approached in NPOs.
 
 **How has donor retention evolved over time ?**
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/1st_image.png)
+Comment: This line graph illustrates the percentage of donors retained from one year to the next over a ten-year period. While retention fluctuates around 30%, occasional dips highlight the importance of targeted re-engagement strategies and sustained communication with donor segments.
+
+Any NPO will want this information to position themselves regarding donor retention. By knowing how they retain donors, they can determine whether or not to foster interaction with donors, build more campaigns or any other inspired-data decision that could improve donor retention.
+
+**What is the donation frequency per age range ?**
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/2nd_image.png)
+Comment: Donors who are older are likely to donate more than young individuals in the range of 25 to 34 years old.
+The results match [real world data](https://www.statista.com/statistics/292936/giving-to-charity-in-england-by-age/).
+
+Any NPO would want this information to know which age range to target the most and which one to sensitize to donate more, whether it's through campaign messages or any other means.
+
+**How many time donors are likely to donate ?**
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/3rd_image.png)
+Comment: Most donors donates around 2 to 4 times.
+We can observe that the Number of Donors decreases For higher number of donations, showing moderate donor retention.
+
+This type of information is very useful because some NPOs might want to set their new objectives to higher number of donations per donor. 
+
+**What is the donation amount repartition per gender?**
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/4rth_image.png)
+Comment: For this fictitious data set, gender is equally distributed, but in some regions, NPOs might observe some imbalance and, therefore, make it their objective to understand why and do something about it.
+
+**How can the different type of donors be classified ?**
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/4rth_image.png)
+
+Comments: Not every donor contributes the same. Therefore, donors have to be interacted with differently. Some donors may receive messages of recognition and heartfelt remerciements, while others may need to be re-engaged toward donating again. Knowing the different donor segments is crucial information for NPOs.
+
+**what channel results to the best engagement outcome**?
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/ef44df214fbaea3031d18dbc9d76cfdc3a47e225/Images/6xth_image.png)
+Comment: Channels seem to have approximately the same engagement outcome in the context of this analysis.
+However, some NPOs might have a certain channel that leads to better results. For example, in the context of Haiti, some NPOs may want to use social media instead of email, since it is more widely used.
+## Modeling
+#### ==========================================================================================
 
 
 ## Contact information
