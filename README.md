@@ -98,10 +98,11 @@ However, some NPOs might have a certain channel that leads to better results. Fo
 We will develop a concrete and practical plan, along with an ML pipeline, that aligns with the objective of reducing churn and unsubscriptions, strengthening donor relationships, and improving alignment between collection and impact — with clear, actionable ML deliverables.
 
 ### Model 1
-**purpose of model**
+**purpose of model**:
 predict donor loyalty
 
-**steps taken**
+**steps taken**:
+
 to build the model we generated new features.we splitted the  data into two parts: one for the train set and one for the test set. the train set wil contain all historical data that are three years before 2025. we engineered Additional Behavioral Variables
 
 **Chosen model**:
