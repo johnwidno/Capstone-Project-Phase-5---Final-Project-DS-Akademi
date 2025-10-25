@@ -117,14 +117,32 @@ The model used is XGBoost Classifier, selected for its ability to handle non-lin
 The model correctly predicts donor loyalty about 57% of the time, slightly better than random (50%), but not yet reliable for decision-making. it has limited ability to distinguish between loyal and non-loyal donors (0.5 = random). It needs improvement. The model correctly identifies many non-loyal donors (432), but struggles with loyal donors (103 correctly, 179 missed
 
 ### Model 2 
+
 ![Alt text]()
+
 **Interpretation**
 
 The model correctly predicts about 67% of loyal donors. That’s higher than the XGBoost model (≈0.57). We can therefore say that this one does better overall at predicting loyal donors
 
 However, accuracy alone is misleading when classes are imbalanced (as is the case here
+
+project.
+
+### Model 3 
+**Model purpose** :
+this model is build to try to predict future donation amount
+
+**Model performance:**
+RMSE ≈ 165.5 On average, the model’s predictions for future donation amounts deviate by about 165 units from the actual values. Since donations vary widely, this represents a relatively large error, indicating that the predictions are not very precise.
+
+R² ≈ -0.10 An R² value below 0 indicates that the model performs worse than a simple baseline that predicts the mean donation for all donors. This suggests that the Random Forest model fails to capture meaningful patterns from the current features for predicting future donation amounts.
+
+## Recommendations
+
+The use of data plays a crucial role in decision-making. Data can be used for inferrential anysis, predictive anlysis, etc... data allows organisation to make better and more informed decision overall.
+
 ## Contact information
-Bellow: The Contact Information Of the Two Data scientist in charge of the project.
+Bellow: The Contact Information Of the Two Data scientist in charge of the 
 
 - First Name: Haender Michael
 - Last Name: Jean Louis
