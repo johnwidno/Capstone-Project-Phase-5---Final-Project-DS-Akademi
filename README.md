@@ -112,6 +112,17 @@ The model used is XGBoost Classifier, selected for its ability to handle non-lin
 **Model Evaluation**
 ![Alt text]() 
 
+**interpretation**
+
+The model correctly predicts donor loyalty about 57% of the time, slightly better than random (50%), but not yet reliable for decision-making. it has limited ability to distinguish between loyal and non-loyal donors (0.5 = random). It needs improvement. The model correctly identifies many non-loyal donors (432), but struggles with loyal donors (103 correctly, 179 missed
+
+### Model 2 
+![Alt text]()
+**Interpretation**
+
+The model correctly predicts about 67% of loyal donors. That’s higher than the XGBoost model (≈0.57). We can therefore say that this one does better overall at predicting loyal donors
+
+However, accuracy alone is misleading when classes are imbalanced (as is the case here
 ## Contact information
 Bellow: The Contact Information Of the Two Data scientist in charge of the project.
 
