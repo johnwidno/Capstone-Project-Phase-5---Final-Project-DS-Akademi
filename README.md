@@ -124,9 +124,7 @@ The model correctly predicts donor loyalty about 57% of the time, slightly bette
 
 The model correctly predicts about 67% of loyal donors. That’s higher than the XGBoost model (≈0.57). We can therefore say that this one does better overall at predicting loyal donors
 
-However, accuracy alone is misleading when classes are imbalanced (as is the case here
-
-project.
+However, accuracy alone is misleading when classes are imbalanced (as is the case here project.
 
 ### Model 3 
 **Model purpose** :
