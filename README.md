@@ -149,7 +149,7 @@ Bellow: The Contact Information Of the Two Data scientist in charge of the
 - WhatsApp  : +509 33905060
 - LinkedIn: https://www.linkedin.com/in/michael-haender-jean-louis-4b7320316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
-## contact information 2 
+## Contact information 2 
 - First Name  : John Widno
 - Last Name   : DORCY
 - Email       : dorcyjohnwidno97@gmail.com
