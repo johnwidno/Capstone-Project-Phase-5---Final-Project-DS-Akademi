@@ -91,7 +91,7 @@ Comment: For this fictitious data set, gender is equally distributed, but in som
 Comments: Not every donor contributes the same. Therefore, donors have to be interacted with differently. Some donors may receive messages of recognition and heartfelt remerciements, while others may need to be re-engaged toward donating again. Knowing the different donor segments is crucial information for NPOs.
 
 **what channel results to the best engagement outcome**?
-![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/7e71c1836090fc4b0c72f2af27947bba4849f98f/Images(1)/4rth_image.png)
+![Alt text](https://github.com/johnwidno/Capstone-Project-Phase-5---Final-Project-DS-Akademi/blob/7e71c1836090fc4b0c72f2af27947bba4849f98f/Images(1)/6xth_image.png)
 
 Comment: Channels seem to have approximately the same engagement outcome in the context of this analysis.
 However, some NPOs might have a certain channel that leads to better results. For example, in the context of Haiti, some NPOs may want to use social media instead of email, since it is more widely used.
