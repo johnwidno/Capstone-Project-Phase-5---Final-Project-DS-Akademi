@@ -139,7 +139,7 @@ R² ≈ -0.10 An R² value below 0 indicates that the model performs worse than 
 
 The use of data plays a crucial role in decision-making. Data can be used for inferrential anysis, predictive anlysis, etc... data allows organisation to make better and more informed decision overall.
 
-## Contact information
+## Contact information 1
 Bellow: The Contact Information Of the Two Data scientist in charge of the 
 
 - First Name: Haender Michael
